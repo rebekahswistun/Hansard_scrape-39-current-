@@ -1,3 +1,11 @@
+library(tidyverse)
+library(RCurl)
+library(data.table)
+library(XML)
+library(tm)
+library(tidytext)
+library(stringi)
+
 ###Enter values and run code to obtain desired hansard
 
 First.debate <- 
