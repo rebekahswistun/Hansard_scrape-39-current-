@@ -1,3 +1,5 @@
+###Enter values and run code to obtain desired hansard
+
 First.debate <- 
 Last.debate <- 
 Parliament <- 
