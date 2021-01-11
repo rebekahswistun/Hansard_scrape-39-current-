@@ -1,10 +1,7 @@
 library(tidyverse)
-library(RCurl)
-library(data.table)
 library(XML)
-library(tm)
-library(tidytext)
-library(stringi)
+library(httr)
+library(data.table)
 
 ###Enter values and run code to obtain desired hansard
 
